@@ -1,11 +1,12 @@
 #include <iostream>
+
 using namespace std;
  //int main wajib dalam sebuah codingan cpp, dia sebagai "body" utama c++
 int main()
 {
    //disini saya deklarasi sebuah variabel bernama x
    string x;
-   //disini saya output sebuah tulisan =
+   //disini saya output yang bertulisan =
    cout<<"Isi Namamu = ";
    //variabel x diisi dengan inputan dari user
    cin>>x;
