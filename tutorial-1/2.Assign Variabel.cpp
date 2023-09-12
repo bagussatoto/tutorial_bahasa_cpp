@@ -11,5 +11,7 @@ int main()
   angka = 5;
   //disini saya output kan nilai dari variabel x
   cout<<x; 
+  //untuk mengambil nilai dari variabel angka dan 
+  //mengalirkannya ke output, yang dalam hal ini adalah layar konsol.
   cout<<angka;
 }
