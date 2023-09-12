@@ -23,4 +23,4 @@ Kemudian Klik Enter, Dan Jalankan Filenya :
 ### List Example
 - [Hello World](/tutorial-1/1.Hello%20World.cpp) 
 - [Assigning Variables](/tutorial-1/2.Assign%20Variabel.cpp)
-- [Input Into Variables](Tutorial-1/3.Variabel.cpp)
+- [Input Into Variables](tutorial-1/3.Variabel.cpp)
