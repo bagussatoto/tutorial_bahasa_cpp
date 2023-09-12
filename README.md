@@ -14,7 +14,7 @@ g++ [NamaCode.cpp] -o [namaOutput.exe]
 ```
 Contoh :
 ```
-g++ 2.AssignVariabel.cpp -o AssignVar.exe
+g++ 1.Hello World.cpp -o AssignVar.exe
 ```
 Kemudian Klik Enter, Dan Jalankan Filenya :
 ```
