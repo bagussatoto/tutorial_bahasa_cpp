@@ -22,6 +22,6 @@ int main()
     cout<<"apakah x lebih besar dari y dan y lebih kecil daripada x ? = "<<(x>y && y>x)<<endl;
     //logika or itu, benar jika salah satu benar
     cout<<"apakah x lebih kecil dari y Atau y lebih kecil daripada x ? = "<<(x>y || y>x)<<endl;
-    //logika not itu, bakal merubah nilai 1 menjadi 0 begitupun sebaliknya
+    //logika not itu, bakal merubah nilai 1 menjadi 0 ataupun sebaliknya
     cout<<"apakah tidak benar bahwa x lebih kecil dari y Atau y lebih kecil daripada x ? = "<<(!(x>y || y>x))<<endl;
 }
