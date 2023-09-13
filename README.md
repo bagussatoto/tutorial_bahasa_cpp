@@ -48,6 +48,6 @@ Kemudian Klik Enter, Dan Jalankan Filenya :
 - [Assigning Variables](/tutorial-1/2.Assign%20Variabel.cpp)
 - [Input Into Variables](tutorial-1/3.Variabel.cpp)
 - [Operator Aritmatika](/tutorial-1/4.Operator.cpp)
-- [Assign Operator](/tutorial-1/5.AssignOperator.cpp)
+- [Operator Assignment](/tutorial-1/5.AssignOperator.cpp)
 - [Percabangan](/tutorial-1/6.Percabangan.cpp)
 - **Untuk selengkapnya masih dalam pengerjakan, jadi ditunggu aja.**
