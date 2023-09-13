@@ -50,4 +50,6 @@ Kemudian Klik Enter, Dan Jalankan Filenya :
 - [Operator Aritmatika](/tutorial-1/4.Operator.cpp)
 - [Operator Assignment](/tutorial-1/5.AssignOperator.cpp)
 - [Statement Kondisional](/tutorial-1/6.Percabangan.cpp)
+- [Komparasi Antar Variabel](/tutorial-1/7.Comparator.cpp)
+
 - **Untuk selengkapnya masih dalam pengerjakan, jadi ditunggu aja.**
