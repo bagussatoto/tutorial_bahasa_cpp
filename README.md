@@ -49,5 +49,5 @@ Kemudian Klik Enter, Dan Jalankan Filenya :
 - [Input Into Variables](tutorial-1/3.Variabel.cpp)
 - [Operator Aritmatika](/tutorial-1/4.Operator.cpp)
 - [Operator Assignment](/tutorial-1/5.AssignOperator.cpp)
-- [Percabangan](/tutorial-1/6.Percabangan.cpp)
+- [Statement Kondisional](/tutorial-1/6.Percabangan.cpp)
 - **Untuk selengkapnya masih dalam pengerjakan, jadi ditunggu aja.**
