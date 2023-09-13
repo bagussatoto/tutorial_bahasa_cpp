@@ -51,5 +51,6 @@ Kemudian Klik Enter, Dan Jalankan Filenya :
 - [Operator Assignment](/tutorial-1/5.AssignOperator.cpp)
 - [Statement Kondisional](/tutorial-1/6.Percabangan.cpp)
 - [Komparasi Antar Variabel](/tutorial-1/7.Comparator.cpp)
+- [Kompilasi Operator Dari Input](/tutorial-1/8.InputOperator.cpp)
 
 - **Untuk selengkapnya masih dalam pengerjakan, jadi ditunggu aja.**
