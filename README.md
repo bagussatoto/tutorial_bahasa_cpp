@@ -21,9 +21,9 @@ Berikut adalah beberapa alasan spesifik mengapa saya membuat platform ini:
 
 ## Get Started
 Compiler / Alat Yang Dibutuhkan :
-- Text Editor (VSC Dll).
-- Compiler (MinGw,Dev++ Dll).
-- Git Clone Repositori Ini.
+- Text Editor |  [Visual Studio Code](https://code.visualstudio.com/)
+- Compiler |  [MinGw](https://sourceforge.net/projects/mingw/) , [Dev++](https://www.bloodshed.net/)
+- [Git](https://git-scm.com/) Clone Repositori Ini.
 
 ### Referensi project programanan C++
 
