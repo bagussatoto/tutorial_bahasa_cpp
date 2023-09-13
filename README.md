@@ -47,7 +47,7 @@ Kemudian Klik Enter, Dan Jalankan Filenya :
 - [Hello World](/tutorial-1/1.Hello%20World.cpp) 
 - [Assigning Variables](/tutorial-1/2.Assign%20Variabel.cpp)
 - [Input Into Variables](tutorial-1/3.Variabel.cpp)
-- [input Into Operator](/tutorial-1/4.Operator.cpp)
+- [Operator Aritmatika](/tutorial-1/4.Operator.cpp)
 - [Assign Operator](/tutorial-1/5.AssignOperator.cpp)
-- [Percabanga](/tutorial-1/6.Percabangan.cpp)
+- [Percabangan](/tutorial-1/6.Percabangan.cpp)
 - **Untuk selengkapnya masih dalam pengerjakan, jadi ditunggu aja.**
