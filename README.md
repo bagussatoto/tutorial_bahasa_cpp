@@ -16,7 +16,7 @@ Berikut adalah beberapa alasan spesifik mengapa saya membuat platform ini:
 
 - Saya ingin membuat kontribusi positif bagi komunitas pemrograman. Saya percaya bahwa platform saya dapat membantu orang-orang belajar dan berkembang, dan saya bangga dapat menjadi bagian dari itu.
 
- Saya berharap platform saya dapat membantu Anda mencapai tujuan Anda.
+ > Saya berharap platform saya dapat membantu Anda mencapai tujuan Anda.
 
 
 ## Get Started
@@ -37,11 +37,11 @@ g++ [NamaCode.cpp] -o [namaOutput.exe]
 ```
 Contoh :
 ```
-g++ 1.Hello World.cpp -o AssignVar.exe
+g++ 1.Hello World.cpp -o hello.exe
 ```
 Kemudian Klik Enter, Dan Jalankan Filenya :
 ```
-./AssignVar.exe
+./hello.exe
 ```
 ### List Example
 - [Hello World](/tutorial-1/1.Hello%20World.cpp) 
