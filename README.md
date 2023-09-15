@@ -56,7 +56,7 @@ Kemudian Klik Enter, Dan Jalankan Filenya :
 - [Swicth case](/tutorial-1/10.Switch.cpp)
 
 ### List Example Part 2
-- [Array Index](/)
+- [Array Index](/tutorial-2/1.ArrayIndex.cpp)
 
 
 - **Untuk selengkapnya masih dalam pengerjakan, jadi ditunggu aja.**
