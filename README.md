@@ -54,8 +54,9 @@ Kemudian Klik Enter, Dan Jalankan Filenya :
 - [Kompilasi Operator Dari Input](/tutorial-1/8.InputOperator.cpp)
 - [Looping For while, Do while](/tutorial-1/9.Looping.cpp)
 - [Swicth case](/tutorial-1/10.Switch.cpp)
-- 
 
+### List Example Part 2
+- [Array Index](/)
 
 
 - **Untuk selengkapnya masih dalam pengerjakan, jadi ditunggu aja.**
