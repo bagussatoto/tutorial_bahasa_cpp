@@ -53,6 +53,8 @@ Kemudian Klik Enter, Dan Jalankan Filenya :
 - [Komparasi Antar Variabel](/tutorial-1/7.Comparator.cpp)
 - [Kompilasi Operator Dari Input](/tutorial-1/8.InputOperator.cpp)
 - [Looping For while, Do while](/tutorial-1/9.Looping.cpp)
-- []
+- [Swicth case](/tutorial-1/)
+
+
 
 - **Untuk selengkapnya masih dalam pengerjakan, jadi ditunggu aja.**
