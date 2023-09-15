@@ -52,5 +52,7 @@ Kemudian Klik Enter, Dan Jalankan Filenya :
 - [Statement Kondisional](/tutorial-1/6.Percabangan.cpp)
 - [Komparasi Antar Variabel](/tutorial-1/7.Comparator.cpp)
 - [Kompilasi Operator Dari Input](/tutorial-1/8.InputOperator.cpp)
+- [Looping For while, Do while](/tutorial-1/9.Looping.cpp)
+- []
 
 - **Untuk selengkapnya masih dalam pengerjakan, jadi ditunggu aja.**
