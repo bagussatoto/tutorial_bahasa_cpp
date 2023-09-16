@@ -60,4 +60,5 @@ Kemudian Klik Enter, Dan Jalankan Filenya :
 - [Input Array Index](/tutorial-2/2.InputArrayIndex.cpp)
 - [Array Multidimensi](/tutorial-2/3.Multidimensional_array.cpp)
 - [Pointer](/tutorial-2/4.Pointer.cpp)
+- [Referensi Pointer Dan Dereferensi Pointer](/tutorial-2/5.Dereferensi_Pointer.cpp)
 - **Untuk selengkapnya masih dalam pengerjakan, jadi ditunggu aja.**
