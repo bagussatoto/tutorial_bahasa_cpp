@@ -58,6 +58,5 @@ Kemudian Klik Enter, Dan Jalankan Filenya :
 ### List Example Part 2
 - [Array Index](/tutorial-2/1.ArrayIndex.cpp)
 - [Input Array Index](/tutorial-2/2.InputArrayIndex.cpp)
-
-
+- []
 - **Untuk selengkapnya masih dalam pengerjakan, jadi ditunggu aja.**
