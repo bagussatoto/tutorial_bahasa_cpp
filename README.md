@@ -63,4 +63,5 @@ Kemudian Klik Enter, Dan Jalankan Filenya :
 - [Referensi Pointer Dan Dereferensi Pointer](/tutorial-2/5.Dereferensi_Pointer.cpp)
 - [Replace Pointer](/tutorial-2/6.Replace_Pointer.cpp)
 - [Fungsi](/tutorial-2/7.Fungsi.cpp)
+- [Karakter Pointer](/tutorial-2/8.Cek_Length_Dengan_Pointer.cpp)
 - **Untuk selengkapnya masih dalam pengerjakan, jadi ditunggu aja.**
