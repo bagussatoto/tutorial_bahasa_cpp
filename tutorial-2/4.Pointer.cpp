@@ -1,5 +1,6 @@
 #include <iostream>
-using namespace std;
+
+
 int main (){
     //kita membuat variabel string biasa
     string nama="Rafly";
