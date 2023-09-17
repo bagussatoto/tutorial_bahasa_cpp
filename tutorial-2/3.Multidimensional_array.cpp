@@ -1,5 +1,6 @@
 #include <iostream>
-using namespace std;
+
+
 int main()
 {
     //Array multidimensi mirip seperti sistem tabel dimana element array pertama divisualisasikan sebagai baris
