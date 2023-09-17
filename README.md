@@ -62,4 +62,5 @@ Kemudian Klik Enter, Dan Jalankan Filenya :
 - [Pointer](/tutorial-2/4.Pointer.cpp)
 - [Referensi Pointer Dan Dereferensi Pointer](/tutorial-2/5.Dereferensi_Pointer.cpp)
 - [Replace Pointer](/tutorial-2/6.Replace_Pointer.cpp)
+- [Fungsi](/tutorial-2/7.Fungsi.cpp)
 - **Untuk selengkapnya masih dalam pengerjakan, jadi ditunggu aja.**
