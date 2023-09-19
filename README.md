@@ -68,4 +68,5 @@ Kemudian Klik Enter, Dan Jalankan Filenya :
 - [Metode Search 1](/tutorial-2/10.Metode_Search_1.cpp)
 - [Metode Secarch 2](/tutorial-2/11.Metode_Search_2.cpp)
 - [Hitung Kalimat](/tutorial-2/12.Menghitung_Kalimat.cpp)
+- [MinMax Pointer](/tutorial-2/13.MinMax_Pointer.cpp)
 - **Untuk selengkapnya masih dalam pengerjakan, jadi ditunggu aja.**
