@@ -1,5 +1,6 @@
 #include <iostream>
-using namespace std;
+
+
 int main(){
     //deklarasi pointer dan variabel
     int *bPtr,x,nilaiMax=0,NilaiMin=0;
