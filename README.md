@@ -64,4 +64,5 @@ Kemudian Klik Enter, Dan Jalankan Filenya :
 - [Replace Pointer](/tutorial-2/6.Replace_Pointer.cpp)
 - [Fungsi](/tutorial-2/7.Fungsi.cpp)
 - [Karakter Pointer](/tutorial-2/8.Cek_Length_Dengan_Pointer.cpp)
+- [Looping Array](/tutorial-2/9.Looping_Dengan_Array.cpp)
 - **Untuk selengkapnya masih dalam pengerjakan, jadi ditunggu aja.**
