@@ -65,4 +65,5 @@ Kemudian Klik Enter, Dan Jalankan Filenya :
 - [Fungsi](/tutorial-2/7.Fungsi.cpp)
 - [Karakter Pointer](/tutorial-2/8.Cek_Length_Dengan_Pointer.cpp)
 - [Looping Array](/tutorial-2/9.Looping_Dengan_Array.cpp)
+- [Metode Search](/tutorial-2/10.Metode_Search_1.cpp)
 - **Untuk selengkapnya masih dalam pengerjakan, jadi ditunggu aja.**
