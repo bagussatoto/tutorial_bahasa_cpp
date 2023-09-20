@@ -71,5 +71,6 @@ Kemudian Klik Enter, Dan Jalankan Filenya :
 - [MinMax Pointer](/tutorial-2/13.MinMax_Pointer.cpp)
 - [Memori Dinamis](/tutorial-2/14.MemoriDinamis.cpp)
 - [Memori Dinamis 2](/tutorial-2/15.MemoriDinamis2.cpp)
-- []
+- [Search Array](/tutorial-2/16.SearchDalamArray.cpp)
+
 - **Untuk selengkapnya masih dalam pengerjakan, jadi ditunggu aja.**
