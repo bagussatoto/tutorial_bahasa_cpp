@@ -11,7 +11,7 @@ void Insertion(string *a,int method,int n);
 
 int main()
 {
-    cout<<"Nama : Muhammad Rafly Indrawan\nNIM : 19.11.2888\n";
+    cout<<"Nama : Bagus Budi Satoto\nNIM : 1234560001\n";
     cout<<"Masukkan Jumlah Data = ";
     cin>>jumlah;
     string datax[jumlah];
