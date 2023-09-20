@@ -69,4 +69,6 @@ Kemudian Klik Enter, Dan Jalankan Filenya :
 - [Metode Secarch 2](/tutorial-2/11.Metode_Search_2.cpp)
 - [Hitung Kalimat](/tutorial-2/12.Menghitung_Kalimat.cpp)
 - [MinMax Pointer](/tutorial-2/13.MinMax_Pointer.cpp)
+- [Memori Dinamis](/tutorial-2/14.MemoriDinamis.cpp)
+
 - **Untuk selengkapnya masih dalam pengerjakan, jadi ditunggu aja.**
