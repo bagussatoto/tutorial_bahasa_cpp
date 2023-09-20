@@ -72,5 +72,5 @@ Kemudian Klik Enter, Dan Jalankan Filenya :
 - [Memori Dinamis](/tutorial-2/14.MemoriDinamis.cpp)
 - [Memori Dinamis 2](/tutorial-2/15.MemoriDinamis2.cpp)
 - [Search Array](/tutorial-2/16.SearchDalamArray.cpp)
-
+- [Binary Search String](/tutorial-2/17.BinarySearchString.cpp)
 - **Untuk selengkapnya masih dalam pengerjakan, jadi ditunggu aja.**
