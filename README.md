@@ -70,6 +70,6 @@ Kemudian Klik Enter, Dan Jalankan Filenya :
 - [Hitung Kalimat](/tutorial-2/12.Menghitung_Kalimat.cpp)
 - [MinMax Pointer](/tutorial-2/13.MinMax_Pointer.cpp)
 - [Memori Dinamis](/tutorial-2/14.MemoriDinamis.cpp)
-- [Memoru Dinamis 2](/tutorial-2/15.MemoriDinamis2.cpp)
-
+- [Memori Dinamis 2](/tutorial-2/15.MemoriDinamis2.cpp)
+- []
 - **Untuk selengkapnya masih dalam pengerjakan, jadi ditunggu aja.**
