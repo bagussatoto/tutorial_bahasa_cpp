@@ -1,6 +1,8 @@
 #include <iostream>
 #include <cstdlib>
+
 using namespace std;
+
 //deklarasi struct dengan 4 member (2x String 2x Int)
 struct game
 {
