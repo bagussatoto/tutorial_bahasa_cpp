@@ -2,6 +2,7 @@
 //library buat pemanggilan fungsi c_str()
 #include <cstring>
 
+using namespace std;
 
 int jum=0,posisi[100];
 int main(){
