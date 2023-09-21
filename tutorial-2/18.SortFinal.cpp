@@ -1,6 +1,6 @@
 #include <iostream>
 
-
+using namespace std;
 
 int jumlah, pilihan, metod;
 
