@@ -1,5 +1,6 @@
 #include <iostream>
 
+using namespace std;
 
 int main(){
     //membuat array berisi banyak data acak
