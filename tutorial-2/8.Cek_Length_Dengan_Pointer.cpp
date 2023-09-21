@@ -2,6 +2,8 @@
 #include <string>
 #include <conio.h>
 
+using namespace std;
+
 //bikin variabel string sama pointernya
 string kalimat,*pkalimat;
 //buat variabel yang menampung banyaknya karakter
