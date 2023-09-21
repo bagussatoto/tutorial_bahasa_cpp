@@ -3,6 +3,7 @@
 #define true 1
 #define false 0
 
+using namespace std;
 
 int main(){
     //membuat array yang sudah berurutan
