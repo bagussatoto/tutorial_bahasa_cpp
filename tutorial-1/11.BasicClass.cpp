@@ -1,5 +1,5 @@
 #include <iostream>
-
+using namespace std;
 
 // Membuat class baru dengan nama Foo
 class Foo {
