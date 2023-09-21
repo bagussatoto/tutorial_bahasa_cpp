@@ -1,5 +1,7 @@
 #include <iostream>
+
 using namespace std;
+
 //Deklarasi Struct Dengan 4 Member (2x Char 2x Int) Dalam C++
 struct game{
     const char* nama;
