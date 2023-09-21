@@ -1,6 +1,7 @@
 #include <iostream>
 #include <conio.h>
 
+using namespace std;
 
 //deklarasi variabelnyaaa sama pointernyaaa
 int loop,datas[100],*pdata,total;
