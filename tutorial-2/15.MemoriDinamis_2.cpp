@@ -1,5 +1,7 @@
 #include <iostream>
 
+using namespace std;
+
 int main(){
     int jumkar;
     //input jumlah karakter
