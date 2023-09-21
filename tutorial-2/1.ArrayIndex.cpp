@@ -1,5 +1,5 @@
 #include <iostream>
-
+using namespace std;
 
 int main(){
     //array adalah sebuah tipe data yang mengandung banyak variabel, dapat menampung banyak nilai
