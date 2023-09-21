@@ -1,5 +1,5 @@
 #include <iostream>
-
+using namespace std;
 
 //buat fungsi yang akan mengembalikan nilai bertipe string
 string KalimatSapa();
