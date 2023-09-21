@@ -1,5 +1,5 @@
 #include <iostream>
-
+using namespace std;
 
 int main(){
     //deklarasi array sebanyak 10 element, jadi hanya dapat menampung 10 penghutang 
