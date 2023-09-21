@@ -1,5 +1,5 @@
 #include <iostream>
-
+using namespace std;
  //int main wajib dalam sebuah codingan cpp, dia sebagai "body" utama c++
 int main()
 {
