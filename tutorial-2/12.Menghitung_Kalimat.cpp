@@ -1,5 +1,6 @@
 #include <iostream>
 
+using namespace std;
 
 //deklarasi fungsi
 int itungKalimat(string x);
