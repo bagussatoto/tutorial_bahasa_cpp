@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+
 int main(){
     //kita membuat variabel seperti biasa
     string prodi = "Informatika";
