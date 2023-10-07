@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+
 int main () {
     //kita deklarasi beberapa variabel disini
   int tinggi,kolom,baris,itung;
