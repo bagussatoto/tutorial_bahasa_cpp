@@ -75,4 +75,5 @@ Kemudian Klik Enter, Dan Jalankan Filenya :
 - [Binary Search String](/tutorial-2/17.BinarySearchString.cpp)
 - [Sort Final](/tutorial-2/18.SortFinal.cpp)
 - [Stuct](/tutorial-2/19.Struct.cpp)
+- [IOS pada Stuct](/tutorial-2/20.IOStruct.cpp)
 - **Untuk selengkapnya masih dalam pengerjakan, jadi ditunggu aja.**
