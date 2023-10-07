@@ -77,4 +77,5 @@ Kemudian Klik Enter, Dan Jalankan Filenya :
 - [Stuct](/tutorial-2/19.Struct.cpp)
 - [IOS pada Stuct](/tutorial-2/20.IOStruct.cpp)
 - [Queque](/tutorial-2/21.queue.cpp)
+- [Stack Pada Variable 2](/tutorial-2/22.stack.cpp)
 - **Untuk selengkapnya masih dalam pengerjakan, jadi ditunggu aja.**
