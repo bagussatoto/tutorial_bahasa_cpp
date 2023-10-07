@@ -76,4 +76,5 @@ Kemudian Klik Enter, Dan Jalankan Filenya :
 - [Sort Final](/tutorial-2/18.SortFinal.cpp)
 - [Stuct](/tutorial-2/19.Struct.cpp)
 - [IOS pada Stuct](/tutorial-2/20.IOStruct.cpp)
+- [Queque](/tutorial-2/21.queue.cpp)
 - **Untuk selengkapnya masih dalam pengerjakan, jadi ditunggu aja.**
