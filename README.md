@@ -74,4 +74,5 @@ Kemudian Klik Enter, Dan Jalankan Filenya :
 - [Search Array](/tutorial-2/16.SearchDalamArray.cpp)
 - [Binary Search String](/tutorial-2/17.BinarySearchString.cpp)
 - [Sort Final](/tutorial-2/18.SortFinal.cpp)
+- [Stuct](/tutorial-2/19.Struct.cpp)
 - **Untuk selengkapnya masih dalam pengerjakan, jadi ditunggu aja.**
