@@ -78,5 +78,5 @@ Kemudian Klik Enter, Dan Jalankan Filenya :
 - [Input Output Menggunakan Array of Struct](/tutorial-2/20.IOStruct.cpp)
 - [Queque / Antrian](/tutorial-2/21.queue.cpp)
 - [Stack / Bertumpukan](/tutorial-2/22.stack.cpp)
-- [L]
+- [Linked List dalam Array](/tutorial-2/23.LinkedList.cpp)
 - **Untuk selengkapnya masih dalam pengerjakan, jadi ditunggu aja.**
