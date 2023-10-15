@@ -67,7 +67,7 @@ Kemudian Klik Enter, Dan Jalankan Filenya :
 - [Looping Array dengan menggunakan Pointer](/tutorial-2/9.Looping_Dengan_Array.cpp)
 - [Searching Metode dengan Sekuential](/tutorial-2/10.Metode_Search_1.cpp)
 - [Searching Metode dengan Binary](/tutorial-2/11.Metode_Search_2.cpp)
-- [Hitung Kalimat](/tutorial-2/12.Menghitung_Kalimat.cpp)
+- [Menghitung Kalimat dan Kata Pada String Dengan Pointer](/tutorial-2/12.Menghitung_Kalimat.cpp)
 - [MinMax Pointer](/tutorial-2/13.MinMax_Pointer.cpp)
 - [Memori Dinamis 1](/tutorial-2/14.MemoriDinamis_1.cpp)
 - [Memori Dinamis 2](/tutorial-2/15.MemoriDinamis_2.cpp)
