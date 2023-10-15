@@ -75,7 +75,7 @@ Kemudian Klik Enter, Dan Jalankan Filenya :
 - [Metodologi Search String Binary](/tutorial-2/17.BinarySearchString.cpp)
 - [Sorting Bubble,Selection,Insertion with ASC/DESC](/tutorial-2/18.SortFinal.cpp)
 - [Introduksi Stuct](/tutorial-2/19.Struct.cpp)
-- [IOS pada Stuct](/tutorial-2/20.IOStruct.cpp)
+- [Input Output Menggunakan Array of Struct](/tutorial-2/20.IOStruct.cpp)
 - [Queque](/tutorial-2/21.queue.cpp)
 - [Stack Pada Variable 2](/tutorial-2/22.stack.cpp)
 - [L]
