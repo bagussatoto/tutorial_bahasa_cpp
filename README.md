@@ -71,7 +71,7 @@ Kemudian Klik Enter, Dan Jalankan Filenya :
 - [MinMax didalam Pointer](/tutorial-2/13.MinMax_Pointer.cpp)
 - [Alokasi Dan Dealokasi Memori Dinamis 1](/tutorial-2/14.MemoriDinamis_1.cpp)
 - [Alokasi Dan Dealokasi Memori Dinamis 2](/tutorial-2/15.MemoriDinamis_2.cpp)
-- [Search Array](/tutorial-2/16.SearchDalamArray.cpp)
+- [Metodologi Search Dalam Array](/tutorial-2/16.SearchDalamArray.cpp)
 - [Binary Search String](/tutorial-2/17.BinarySearchString.cpp)
 - [Sort Final](/tutorial-2/18.SortFinal.cpp)
 - [Stuct](/tutorial-2/19.Struct.cpp)
