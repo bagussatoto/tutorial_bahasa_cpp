@@ -77,6 +77,6 @@ Kemudian Klik Enter, Dan Jalankan Filenya :
 - [Introduksi Stuct](/tutorial-2/19.Struct.cpp)
 - [Input Output Menggunakan Array of Struct](/tutorial-2/20.IOStruct.cpp)
 - [Queque / Antrian](/tutorial-2/21.queue.cpp)
-- [Stack Pada Variable 2](/tutorial-2/22.stack.cpp)
+- [Stack / Bertumpukan](/tutorial-2/22.stack.cpp)
 - [L]
 - **Untuk selengkapnya masih dalam pengerjakan, jadi ditunggu aja.**
