@@ -65,7 +65,7 @@ Kemudian Klik Enter, Dan Jalankan Filenya :
 - [Fungsi](/tutorial-2/7.Fungsi.cpp)
 - [Karakter Pointer](/tutorial-2/8.Cek_Length_Dengan_Pointer.cpp)
 - [Looping Array dengan menggunakan Pointer](/tutorial-2/9.Looping_Dengan_Array.cpp)
-- [Metode Search 1](/tutorial-2/10.Metode_Search_1.cpp)
+- [Searching Metode Sekuential](/tutorial-2/10.Metode_Search_1.cpp)
 - [Metode Secarch 2](/tutorial-2/11.Metode_Search_2.cpp)
 - [Hitung Kalimat](/tutorial-2/12.Menghitung_Kalimat.cpp)
 - [MinMax Pointer](/tutorial-2/13.MinMax_Pointer.cpp)
