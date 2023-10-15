@@ -64,7 +64,7 @@ Kemudian Klik Enter, Dan Jalankan Filenya :
 - [Replace Pointer](/tutorial-2/6.Replace_Pointer.cpp)
 - [Fungsi](/tutorial-2/7.Fungsi.cpp)
 - [Karakter Pointer](/tutorial-2/8.Cek_Length_Dengan_Pointer.cpp)
-- [Looping Array](/tutorial-2/9.Looping_Dengan_Array.cpp)
+- [Looping Array dengan menggunakan Pointer](/tutorial-2/9.Looping_Dengan_Array.cpp)
 - [Metode Search 1](/tutorial-2/10.Metode_Search_1.cpp)
 - [Metode Secarch 2](/tutorial-2/11.Metode_Search_2.cpp)
 - [Hitung Kalimat](/tutorial-2/12.Menghitung_Kalimat.cpp)
@@ -78,4 +78,5 @@ Kemudian Klik Enter, Dan Jalankan Filenya :
 - [IOS pada Stuct](/tutorial-2/20.IOStruct.cpp)
 - [Queque](/tutorial-2/21.queue.cpp)
 - [Stack Pada Variable 2](/tutorial-2/22.stack.cpp)
+- [L]
 - **Untuk selengkapnya masih dalam pengerjakan, jadi ditunggu aja.**
