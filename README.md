@@ -73,7 +73,7 @@ Kemudian Klik Enter, Dan Jalankan Filenya :
 - [Alokasi Dan Dealokasi Memori Dinamis 2](/tutorial-2/15.MemoriDinamis_2.cpp)
 - [Metodologi Search Dalam Array](/tutorial-2/16.SearchDalamArray.cpp)
 - [Metodologi Search String Binary](/tutorial-2/17.BinarySearchString.cpp)
-- [Sort Final](/tutorial-2/18.SortFinal.cpp)
+- [Sorting Bubble,Selection,Insertion with ASC/DESC](/tutorial-2/18.SortFinal.cpp)
 - [Stuct](/tutorial-2/19.Struct.cpp)
 - [IOS pada Stuct](/tutorial-2/20.IOStruct.cpp)
 - [Queque](/tutorial-2/21.queue.cpp)
