@@ -79,4 +79,8 @@ Kemudian Klik Enter, Dan Jalankan Filenya :
 - [Queque / Antrian](/tutorial-2/21.queue.cpp)
 - [Stack / Bertumpukan](/tutorial-2/22.stack.cpp)
 - [Linked List dalam Array](/tutorial-2/23.LinkedList.cpp)
+
+### List Project 
+- [Faktorial](./project/Faktorial.cpp)
+
 - **Untuk selengkapnya masih dalam pengerjakan, jadi ditunggu aja.**
