@@ -85,4 +85,11 @@ Kemudian Klik Enter, Dan Jalankan Filenya :
 - [kalkulator](./project/Kalkulator.cpp)
 - [Linkaran](./project/Lingkaran.cpp)
 - [NestedLoop](./project/NestedLoop.cpp)
+- [NIlaiMinMAx](./project/NilaiMinimum&Maximum.cpp)
+
+
+
+
+
+
 - **Untuk selengkapnya masih dalam pengerjakan, jadi ditunggu aja.**
