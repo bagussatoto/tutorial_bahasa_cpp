@@ -86,8 +86,7 @@ Kemudian Klik Enter, Dan Jalankan Filenya :
 - [Linkaran](./project/Lingkaran.cpp)
 - [NestedLoop](./project/NestedLoop.cpp)
 - [NIlaiMinMAx](./project/NilaiMinimum&Maximum.cpp)
-
-
+- [Parkir](./project/Parkir.cpp)
 
 
 
