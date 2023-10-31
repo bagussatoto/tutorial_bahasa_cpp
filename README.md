@@ -84,6 +84,7 @@ Kemudian Klik Enter, Dan Jalankan Filenya :
 - [Faktorial](./project/Faktorial.cpp)
 - [kalkulator](./project/Kalkulator.cpp)
 - [Linkaran](./project/Lingkaran.cpp)
+- [Segitiga](./project/Segitiga.cpp)
 - [NestedLoop](./project/NestedLoop.cpp)
 - [NIlaiMinMAx](./project/NilaiMinimum&Maximum.cpp)
 - [Parkir](./project/Parkir.cpp)
