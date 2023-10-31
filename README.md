@@ -90,7 +90,7 @@ Kemudian Klik Enter, Dan Jalankan Filenya :
 
 ### List Project 
 - [Faktorial](./project/Faktorial.cpp)
-- [kalkulator](./project/Kalkulator.cpp)
+- [Kalkulator](./project/Kalkulator.cpp)
 - [Linkaran](./project/Lingkaran.cpp)
 - [Segitiga](./project/Segitiga.cpp)
 - [NestedLoop](./project/NestedLoop.cpp)
