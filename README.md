@@ -18,6 +18,15 @@ Berikut adalah beberapa alasan spesifik mengapa saya membuat platform ini:
 
  > Saya berharap platform saya dapat membantu Anda mencapai tujuan Anda.
 
+## 👦🏽 Siapa pembuat aplikasi ini?
+
+| Profile        |  Keterangan                      |
+|----------------|----------------------------------|
+| Nama           | Bagus Budi Satoto                |
+| Jurusan        | S1 - Informatika                 |
+| Kampus         | Universitas Amikom Yogyakarta    |
+
+
 
 ## Get Started
 Compiler / Alat Yang Dibutuhkan :
@@ -28,7 +37,6 @@ Compiler / Alat Yang Dibutuhkan :
 ### Referensi project programanan C++
 
 [Kumpulan Final Project | Project Akhir | bahasa Pemrograman C++ | bagussatoto](https://github.com/bagussatoto/Kumpulan-Final-Project-C-plus-plus.git)
-
 
 ## Compiling
 Gunakan Format Sintaks Berikut Ketika Berada Dalam Dir Yang Sama Dengan Coding.
