@@ -104,4 +104,9 @@ Kemudian Klik Enter, Dan Jalankan Filenya :
 Jika anda ingin melihat project yang lainnya, Anda bisa [Klik Disini](https://github.com/bagussatoto/Kumpulan-Final-Project-C-plus-plus). 
 Untuk bisa melihat repositori secara langkap dengan  **PUBLIC**. Sehingga bisa dijadikan  referensi project yang anda buat
 
-- **Untuk selengkapnya masih dalam pengerjakan, jadi ditunggu aja.**
+
+## Jika ada pertanyaan silahkan hubungi saya di email :
+
+```
+bagusbudi1308@gmail.com
+```
