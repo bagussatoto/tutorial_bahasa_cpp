@@ -91,6 +91,9 @@ Kemudian Klik Enter, Dan Jalankan Filenya :
 - [Perumahan](./project/Perumahan.cpp)
 - [Rsponsi](./project/Responsi.cpp)
 
+### project lainnya
 
+Jika anda ingin melihat project yang lainnya, Anda bisa [Klik Disini](https://github.com/bagussatoto/Kumpulan-Final-Project-C-plus-plus). 
+Untuk bisa melihat repositori secara langkap dengan  **PUBLIC**. Sehingga bisa dijadikan  referensi project yang anda buat
 
 - **Untuk selengkapnya masih dalam pengerjakan, jadi ditunggu aja.**
