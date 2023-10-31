@@ -83,4 +83,5 @@ Kemudian Klik Enter, Dan Jalankan Filenya :
 ### List Project 
 - [Faktorial](./project/Faktorial.cpp)
 - [kalkulator](./project/Kalkulator.cpp)
+- [Linkaran](./project/Lingkaran.cpp)
 - **Untuk selengkapnya masih dalam pengerjakan, jadi ditunggu aja.**
